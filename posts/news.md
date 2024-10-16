@@ -5,7 +5,7 @@
 <script>
     <!--
     $(function () {
-        $.get('https://node.ihacker.top/jianshu/rss/json.php', {}, function (content) {
+        $.get('https://node.ihacker.top/jianshu/rss/data.json', {}, function (content) {
             $('#news').children().remove();
             var list = content.body;
             for (var i in list) {
