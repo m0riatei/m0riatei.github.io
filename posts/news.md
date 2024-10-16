@@ -9,7 +9,7 @@
             $('#news').children().remove();
             var list = content.body;
             for (var i in list) {
-                var li = '<li>' + list[i].create_time + ' | [<b>' + list[i].category + '</b>] <a href="https://www.jianshu.com' + list[i].href + '" target="_blank" rel="noopener">' + list[i].title + '</a></li>';
+                var li = '<li>' + list[i].create_time + ' | [<b>' + list[i].category + '</b>] <a href="' + list[i].href + '" target="_blank" rel="noopener">' + list[i].title + '</a></li>';
                 $('#news').append(li);
             }
         });
