@@ -5,18 +5,14 @@
 <script>
     <!--
     $(function () {
-        if (window.location.protocol === 'https:') {
-            $('#news>li').html('<li><a href="http://ihacker.top/#/news">点击加载</a></li>');
-        }else {   
-            $.get('http://node.ihacker.top/jianshu/rss/', {}, function (content) {
-                $('#news').children().remove();
-                var list = content.body;
-                for (var i in list) {
-                    var li = '<li>' + list[i].create_time + ' | [<b>' + list[i].category + '</b>] <a href="https://www.jianshu.com' + list[i].href + '" target="_blank" rel="noopener">' + list[i].title + '</a></li>';
-                    $('#news').append(li);
-                }
-            });
-        }
+        $.get('http://node.ihacker.top/jianshu/rss/', {}, function (content) {
+            $('#news').children().remove();
+            var list = content.body;
+            for (var i in list) {
+                var li = '<li>' + list[i].create_time + ' | [<b>' + list[i].category + '</b>] <a href="https://www.jianshu.com' + list[i].href + '" target="_blank" rel="noopener">' + list[i].title + '</a></li>';
+                $('#news').append(li);
+            }
+        });
     });
     -->
 </script>
