@@ -14,8 +14,6 @@
 
 * <big>**吾爱漏洞**</big> - http://www.52bug.cn/
 
-* <big>**红客联盟（08组运营）**</big> - https://www.ihonker.com/
-
 * <big>**安全脉搏**</big> - https://www.secpulse.com/
 
 ## 技术社区 ##
@@ -29,8 +27,6 @@
 * <big>**看雪社区**</big> - https://bbs.kanxue.com/
 
 * <big>**先知社区**</big> - https://xz.aliyun.com/
-
-* <big>**红客联盟社区（08组运营）**</big> - https://www.ihonker.com/index.php
 
 ## 大牛博客 ##
 
