@@ -2,7 +2,7 @@
 
 ## 资讯门户 ##
 
-* <big>**看雪**</big> - https://www.kanxue.com/
+* <big>**安全脉搏**</big> - https://www.secpulse.com/
 
 * <big>**安全客**</big> - https://www.anquanke.com/
 
@@ -12,7 +12,7 @@
 
 * <big>**吾爱漏洞**</big> - http://www.52bug.cn/
 
-* <big>**安全脉搏**</big> - https://www.secpulse.com/
+* <big>**看雪**</big> - https://www.kanxue.com/
 
 ## 技术社区 ##
 
