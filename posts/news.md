@@ -9,7 +9,7 @@
 <script>
     <!--
     $(function () {
-        $.get('https://node.ihacker.top/jianshu/rss/', {}, function (content) {
+        $.get('https://node.ihacker.top/jianshu/rss/data.json', {}, function (content) {
             $('#news').children().remove();
             $('#update>span').html(content.update);
             $('#update').css('display', 'block');
