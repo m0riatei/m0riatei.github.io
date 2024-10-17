@@ -5,6 +5,6 @@
 Copyright © 2000-2024 **安全节点**
 
 [进入](index)
-[动态](news)
+[动态](link)
 <!-- 背景色 -->
 ![color](#F1F1EB)
