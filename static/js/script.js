@@ -16,7 +16,7 @@ window.$docsify = {
                 '<hr/>',
                 '<footer>',
                     '<p>Copyright © 2000-2024 <B>安全节点</B> All Rights Reserved.</p>',
-                    '<P>安全节点 由 <B>n0deTeam</B> 管理维护 </p>',
+                    '<P>安全节点 由 <B>S.N.T</B> 管理维护 </p>',
                     '<p>iHacker.top</p>',
                 '</footer>'
             ].join('');
