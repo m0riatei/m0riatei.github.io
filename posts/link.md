@@ -2,8 +2,6 @@
 
 ## 资讯门户 ##
 
-* <big>**T00ls**</big> - https://www.t00ls.com/
-
 * <big>**看雪**</big> - https://www.kanxue.com/
 
 * <big>**安全客**</big> - https://www.anquanke.com/
@@ -19,6 +17,8 @@
 ## 技术社区 ##
 
 * <big>**棱角社区**</big> - https://forum.ywhack.com/
+
+* <big>**T00ls**</big> - https://www.t00ls.com/
 
 * <big>**i春秋社区**</big> - https://bbs.ichunqiu.com/forum.php
 
